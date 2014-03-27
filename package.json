@@ -1,5 +1,5 @@
 {
-  "name": "Language x86 Assembly",
+  "name": "language-x86",
   "version": "0.0.0",
   "description": "Adds language support for x86 Assembly",
   "repository": "https://github.com/taylorlapeyre/language-x86",
