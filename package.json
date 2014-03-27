@@ -1,8 +1,8 @@
 {
-  "name": "language-dyx86",
+  "name": "Language x86 Assembly",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-dyx86",
+  "description": "Adds language support for x86 Assembly",
+  "repository": "https://github.com/taylorlapeyre/language-x86",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
