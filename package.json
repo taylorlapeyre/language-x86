@@ -1,12 +1,11 @@
 {
   "name": "language-x86",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds language support for x86 Assembly",
   "repository": "https://github.com/taylorlapeyre/language-x86",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
