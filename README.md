@@ -1,3 +1,3 @@
-# language-dyx86 package
+#### language-x86 Package
 
-Language support for x86 Assembly
+Language support for x86 Assembly in Atom.
